@@ -1,0 +1,25 @@
+package com.example.prueba.models
+
+data class Fase(
+    val id : Int,
+    val nombreFase : String,
+    val m_s: String,
+    val e_m_ave: String,
+    val e_d_cerdo: String,
+    val proteina: String,
+    val fibra_cruda: String,
+    val ext_etereo: String,
+    val calcio: String,
+    val fosf_disp: String,
+    val sodio: String,
+    val arginina: String,
+    val lisina: String,
+    val metionina: String,
+    val met_cis: String,
+    val treonina: String,
+    val triptofano: String,
+    val ceniza: String,
+    val creado: String,
+    val actualizado: String,
+    val especie_id : Int,
+)

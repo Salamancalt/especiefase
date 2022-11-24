@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sen</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="entrar">entrar</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="username">Username</string>
+    <string name="nombre_u">nombre U</string>
+    <string name="bienvenidos">Bienvenidos</string>
+    <string name="mezcla_pollo_en_engorde">mezcla pollo en engorde</string>
+    <string name="mezclas_realizadas">Mezclas Realizadas</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="mezcla_cerdo">Mezcla cerdo</string>
+    <string name="mezcla_pollo_etapa_1">Mezcla pollo etapa 1</string>
+    <string name="mezcla_vaca_lechera">Mezcla vaca lechera</string>
+    <string name="simulador">Simulador</string>
+    <string name="seleccione_la_especie">Seleccione la especie</string>
+    <string name="seleccione_la_fase">Seleccione la fase</string>
+    <string name="cantidad_de_mezcla_kg">Cantidad de mezcla(kg)</string>
+    <string name="correo_electronico">Correo Electronico</string>
+</resources>
